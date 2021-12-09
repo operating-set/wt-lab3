@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student id="9510054">
+    <name>Гаркун Иван</name>
+    <adress>Дзержинск, тихая 3-94</adress>
+    <groupNumber>951008</groupNumber>
+    <grades>
+        <entry>
+            <key>ВТ</key>
+            <value>10</value>
+        </entry>
+        <entry>
+            <key>МОПТИМ</key>
+            <value>10</value>
+        </entry>
+        <entry>
+            <key>ОСиСП</key>
+            <value>10</value>
+        </entry>
+        <entry>
+            <key>СПП</key>
+            <value>4</value>
+        </entry>
+        <entry>
+            <key>НПО</key>
+            <value>9</value>
+        </entry>
+    </grades>
+</student>
